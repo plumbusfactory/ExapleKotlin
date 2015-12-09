@@ -1,0 +1,6 @@
+name: ExampleKotlinPlugin
+main: Example.plugin.Main
+version: 1.0
+commands:
+  testcmd:
+    description: ExampleCMD
